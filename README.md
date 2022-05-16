@@ -6,4 +6,4 @@ Repositorio  criado para o Desafio de Projeto.
 
 
 
-teste-curso-dominando-ides-java-intellij-dio (https://github.com/larissamachado0/dio-desafio-github-primeiro-repositorio/edit/main/README.md)
+teste-curso-dominando-ides-java-intellij-dio (https://github.com/larissamachado0/teste-curso-dominando-ides-java-intellij-dio.git)
