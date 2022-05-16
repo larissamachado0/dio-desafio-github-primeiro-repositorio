@@ -5,4 +5,5 @@ Repositorio  criado para o Desafio de Projeto.
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 
-https://github.com/larissamachado0/dio-desafio-github-primeiro-repositorio/edit/main/README.md
+
+teste-curso-dominando-ides-java-intellij-dio (https://github.com/larissamachado0/dio-desafio-github-primeiro-repositorio/edit/main/README.md)
