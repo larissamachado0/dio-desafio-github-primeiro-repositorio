@@ -4,6 +4,7 @@ Repositorio  criado para o Desafio de Projeto.
 ## Links Úteis 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+# Anotações
+Praticando GFT Start Woman Java
 
-
-teste-curso-dominando-ides-java-intellij-dio (https://github.com/larissamachado0/teste-curso-dominando-ides-java-intellij-dio.git)
+Repositório referente ao teste realizado no curso dominando IDE, referente a IntelliJ (https://github.com/larissamachado0/teste-curso-dominando-ides-java-intellij-dio.git)
