@@ -1,4 +1,4 @@
-# Desafio de projeto sobre Git/Github da DIO
+# Desafio de projeto sobre Git/Github da DIO / Anotações GFT Start Woman Java
 Repositorio  criado para o Desafio de Projeto.
 
 ## Links Úteis 
